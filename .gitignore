@@ -1,0 +1,4 @@
+*.o
+tests/test-rand
+tests/test-hmac
+tests/test-hash
