@@ -1,6 +1,6 @@
 #include <assert.h>
 #include <inttypes.h>
-#include <strings.h>
+#include <string.h>
 
 #include "stun/stunhmac.h"
 
